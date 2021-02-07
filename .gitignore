@@ -1,0 +1,17 @@
+.svn
+.git
+obj
+bin
+log
+*.log
+*.res
+*.dll
+*.exe
+*.pdb
+*.db
+*.ldf
+*.bak
+*.mdf
+*.rar
+*.zip
+*.pdf
